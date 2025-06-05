@@ -16,10 +16,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+!!! note
 
-> :memo: **title**
->
-> - list under lists
-> - under lists
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
