@@ -15,3 +15,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
