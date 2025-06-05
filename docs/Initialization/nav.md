@@ -18,3 +18,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
+
+> :memo: **title**
+>
+> - list under lists
+> - under lists
