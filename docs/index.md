@@ -1,7 +1,7 @@
 # Muber Operating Guide
 
-Hello?
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org). Hello?
 
 ## Camera View
 
