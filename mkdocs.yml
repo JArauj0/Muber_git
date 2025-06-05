@@ -1,0 +1,11 @@
+site_name: Muber Operating Guide
+nav:
+  - Home: index.md
+  - Initialization: 
+    - Overview: Initialization/overview.md
+    - Camara view: Initialization/camera.md
+    - Vehicle setup: Initialization/setup.md
+    - Navigation: Initialization/nav.md
+    - Logs: Initialization/logs.md
+  - Maintenance: Maintenance/index.md
+  - Specifications: Specifications/index.md
