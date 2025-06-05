@@ -2,7 +2,7 @@
 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org). Hello?
-![cover!](/images/test1.jpg "testimage")
+![cover!](images/test1.jpg "testimage")
 
 ## Camera View
 
