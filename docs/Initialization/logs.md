@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Logs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![logsimage](../images/logs.png)
 
-## Commands
+The **Logs** tab registers the vehicle actions (if the vehicle is automatic mode), or the operator actions (if the vehicle is in manual mode).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The fields that this tab shows are as follows:
 
-## Project layout
+- `Mode` - Operating mode
+- `Description` - Description of the occurrence
+- `Time` - Time of the occurence
+- `Deadline` - Time that the operator has to acknoledge the occurence
+- `Status` - Where the operator can acknoledge the occurrence by clicking on the checkbox.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! note
+    If a occurence happens in manual mode, the log will be recorded in red color.

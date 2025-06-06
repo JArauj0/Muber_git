@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Camera
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![cameraimage](../images/camera.png)
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* `LiDAR` - Switches the output between camera and LiDAR sensor.
+* `Arrows` - Allows the operator to control the vehicle when in manual mode.

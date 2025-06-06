@@ -1,23 +1,24 @@
-# Welcome to MkDocs
+# Navigation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![navimage](../images/nav.png)
 
-## Commands
+## Energy tab
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The energy tab shows the values that follows:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- `Battery`: current battery level
+- `Battery at destination`: estimated battery level at destination.
 
 !!! note
+    The **battery** value can take up to 5 seconds to refresh.
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+## Navigation tab
+
+The navigation tab shows the values that follows:
+
+- `Status`: **idle**, **charging**, or ***en route***
+- `Action`: last action registered by the vehicle.
+- `Position`: coordinates of the vehicle position
+- `Destination`: coordinates of the vehicle destination
+- `Current speed`: vehicle speed
+- `Operation time`: time since the vehicle was charged.

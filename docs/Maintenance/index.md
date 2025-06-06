@@ -1,3 +1,3 @@
 # Maintenance
 
-Currently under development
+Maintenance program under development.
