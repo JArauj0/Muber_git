@@ -155,7 +155,7 @@ Only available when you use the [GUI](../Initialization/setup.md).
     }
     ```
 
-2. Select the terrain configuration.
+2. Select the terrain type.
 
     ```bash title="Request"
     curl -X POST "http://api.muber.fleet:1234/v2/vehicles/veh_123/terrain" \
