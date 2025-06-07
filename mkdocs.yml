@@ -1,8 +1,8 @@
 nav:
   - Home: index.md
   - Initialization: 
-    - To inicialize a vehicle (GUI): Initialization/setup.md
-    - To inicialize a vehicle (API): Initialization/setup_api.md
+    - To initialize a vehicle (GUI): Initialization/setup.md
+    - To initialize a vehicle (API): Initialization/setup_api.md
     - Camara view: Initialization/camera.md
     - Navigation: Initialization/nav.md
     - Logs: Initialization/logs.md
