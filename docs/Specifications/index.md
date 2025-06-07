@@ -1,3 +1,3 @@
 # Specifications
 
-Currently under development
+Under development.

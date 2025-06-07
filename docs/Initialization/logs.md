@@ -9,9 +9,9 @@ The fields that this tab shows are as follows:
 
 - `Mode` - Operating mode
 - `Description` - Description of the occurrence
-- `Time` - Time of the occurence
-- `Deadline` - Time that the operator has to acknoledge the occurence
-- `Status` - Where the operator can acknoledge the occurrence by clicking on the checkbox.
+- `Time` - Time of the occurrence
+- `Deadline` - Time that the operator has to acknowledge the occurrence
+- `Status` - Where the operator can acknowledge the occurrence by clicking on the checkbox.
 
 !!! note
-    If a occurence happens in manual mode, the log will be recorded in red color.
+    If an occurrence happens in manual mode, the log will be recorded in red color.

@@ -1,3 +1,3 @@
 # Maintenance
 
-Maintenance program under development.
+Under development.

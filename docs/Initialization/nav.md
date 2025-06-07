@@ -5,7 +5,7 @@
 
 ## Energy tab
 
-The energy tab shows the values that follows:
+The energy tab shows the values that follow:
 
 - `Battery`: current battery level
 - `Battery at destination`: estimated battery level at destination.
@@ -15,7 +15,7 @@ The energy tab shows the values that follows:
 
 ## Navigation tab
 
-The navigation tab shows the values that follows:
+The navigation tab shows the values that follow:
 
 - `Status`: **idle**, **charging**, or ***en route***
 - `Action`: last action registered by the vehicle
