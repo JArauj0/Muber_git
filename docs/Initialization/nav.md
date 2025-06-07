@@ -1,6 +1,7 @@
 # Navigation
 
 ![navimage](../images/nav.png)
+*Navigation tab*
 
 ## Energy tab
 

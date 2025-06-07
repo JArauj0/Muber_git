@@ -1,6 +1,8 @@
 # Camera
 
 ![cameraimage](../images/camera.png)
+*Camera tab*
+
 
 ## Commands
 
