@@ -1,7 +1,7 @@
 # To initialize a vehicle
 
 ![setupimage](../images/setup.png)
-*Setup tab*
+*Vehicle setup tab*
 
 ## To prepare the vehicle
 1. Power on the vehicle and your computer.
