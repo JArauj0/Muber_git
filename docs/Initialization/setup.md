@@ -1,5 +1,7 @@
 # To initialize a vehicle
 
+![setupimage](../images/setup.png)
+
 ## To prepare the vehicle
 1. Power on the vehicle and your computer.
 2. Make sure that the vehicle and your computer are connected to the same network.
@@ -8,21 +10,19 @@
         When the vehicle is successfully connected, the dropdown will turn green.
         For vehicle-to-software connection issues, see the network diagnosis section in [maintenance](../Maintenance/tips.md). 
 
-3. Do a check of all critical systems:
+3. Press the **Check vehicle** button to do a check of all critical systems:
 
-| System | Test description |
-|--------|------------------|
-| Brakes | Make sure that vehicle can stop in a safe manner |
-| Cameras and sensors | Make sure that all sensors are funcional. Calibrate them if necessary. |
-| Seatbelts and airbags | Make sure that all safety equipment is functional |
-| Child safety locks | Make sure that the child safety locks are functional |
-| Emergency communication | Make sure that the vehicle notificates the system if emergency mode is activated |
-| Software updates | Make sure that software updates are encrypted and validated. |
+    | System | Test description |
+    |--------|------------------|
+    | Brakes | Make sure that vehicle can stop in a safe manner |
+    | Cameras and sensors | Make sure that all sensors are funcional. Calibrate them if necessary. |
+    | Seatbelts and airbags | Make sure that all safety equipment is functional |
+    | Child safety locks | Make sure that the child safety locks are functional |
+    | Emergency communication | Make sure that the vehicle notificates the system if emergency mode is activated |
+    | Software updates | Make sure that software updates are encrypted and validated. |
 
-!!! warning
-    Vehicle movement can be restricted if one of the above systems is not working as intended.
-
-![setupimage](../images/setup.png)
+    !!! warning
+        Vehicle movement can be restricted if one of the above systems is not working as intended.
 
 ## To assign a **Fleet ID** to a vehicle
 

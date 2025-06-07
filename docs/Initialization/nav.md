@@ -17,7 +17,7 @@ The energy tab shows the values that follows:
 The navigation tab shows the values that follows:
 
 - `Status`: **idle**, **charging**, or ***en route***
-- `Action`: last action registered by the vehicle.
+- `Action`: last action registered by the vehicle
 - `Position`: coordinates of the vehicle position
 - `Destination`: coordinates of the vehicle destination
 - `Current speed`: vehicle speed

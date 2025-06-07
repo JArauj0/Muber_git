@@ -1,23 +1,8 @@
-theme:
-  name: material
-  features:
-    - navigation.tabs       # Tabs for sections
-    - navigation.top        # Back-to-top button
-    - search.highlight      # Search highlighting
-    - toc.integrate         # Auto-generated TOC
-  palette:
-    - primary: blue 
-
-markdown_extensions:
-  - admonition  # Required for basic !!! notes
-  - pymdownx.details  # Required for collapsible notes
-  - pymdownx.superfences  # For code blocks inside notes
-
-site_name: Muber Operating Guide
 nav:
   - Home: index.md
   - Initialization: 
-    - Vehicle setup: Initialization/setup.md
+    - To inicialize a vehicle (GUI): Initialization/setup.md
+    - To inicialize a vehicle (API): Initialization/setup_api.md
     - Camara view: Initialization/camera.md
     - Navigation: Initialization/nav.md
     - Logs: Initialization/logs.md
@@ -25,3 +10,27 @@ nav:
       - Maintenance program: Maintenance/index.md
       - Tips and tricks: Maintenance/tips.md
   - Specifications: Specifications/index.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs      
+    - navigation.top        
+    - search.highlight     
+    - toc.integrate         
+    - content.code.copy
+  palette:
+    - primary: blue 
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences 
+  - admonition  
+  - pymdownx.details  
+
+site_name: Muber Operating Guide

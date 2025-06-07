@@ -2,7 +2,7 @@
 
 ![logsimage](../images/logs.png)
 
-The **Logs** tab registers the vehicle actions (if the vehicle is automatic mode), or the operator actions (if the vehicle is in manual mode).
+The Logs tab registers the vehicle actions (if the vehicle is automatic mode), or the operator actions (if the vehicle is in manual mode).
 
 The fields that this tab shows are as follows:
 
